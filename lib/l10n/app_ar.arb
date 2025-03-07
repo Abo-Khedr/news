@@ -1,0 +1,15 @@
+{
+ "title" : "أخبار",
+ "pick" : "اختر فئة اهتمامك",
+ "sports" : "رياضه" ,
+ "general" : "عام" ,
+ "health" : "صحه" ,
+ "business" : "عمل" ,
+ "entertainment" : "ترفيه",
+ "science" : "علوم" ,
+ "technology" : "تكنولوجيا",
+ "view" : "مشاهدة كل المقال",
+ "news" : "أخبار",
+ "settings" : "الاعدادات",
+ "categories" : "الفئات"
+}

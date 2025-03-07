@@ -1,0 +1,15 @@
+{
+ "title" : "News App",
+ "pick" : "Pick your category Of interest",
+ "sports" : "Sports" ,
+ "general" : "General" ,
+ "health" : "Health" ,
+ "business" : "Business" ,
+ "entertainment" : "Entertainment",
+ "science" : "Science" ,
+ "technology" : "Technology",
+ "view" : "View Full Article",
+ "news" : "News",
+ "settings" : "Settings",
+ "categories" : "Categories"
+}
